@@ -30,18 +30,7 @@ A simple and clean C++ project made using:
 | File Name              | Description                    |
 |------------------------|--------------------------------|
 | `student_template.cpp` | Main C++ program               |
-| `screenshots/`         | Contains terminal output snaps |
 
----
-
-## 📸 Output Screenshots (via CodeSnap)
-
-| Action           | Screenshot |
-|------------------|------------|
-| Add Student      | ![Add](screenshots/add_snap.png) |
-| Display Students | ![Display](screenshots/display_snap.png) |
-| Search Student   | ![Search](screenshots/search_snap.png) |
-| Remove Student   | ![Remove](screenshots/remove_snap.png) |
 
 ---
 
